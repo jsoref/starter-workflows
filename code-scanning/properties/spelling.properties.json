@@ -1,0 +1,7 @@
+{
+    "name": "check-spelling",
+    "description": "Identify spelling errors during PR review/branch development (instead of hearing about them from your customers) with check-spelling",
+    "iconName": "check-spelling",
+    "creator": "Josh Soref",
+    "categories": ["Code scanning", "code-quality", "code-review"]
+}
